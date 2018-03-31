@@ -1,0 +1,75 @@
+WAYNE J. RASMUSSEN
+
+10926 Huston Street Suite 204   West Toluca Lake, CA 91601
+
+(818) 755-1886 								   waynejrasmussen@gmail.com
+                              
+DATABASE / SYSTEM ADMINISTRATOR
+Delivering Leadership, Accountability, and Excellence
+
+PROFILE
+Highly successful technology expert with more than 30 years of experience in multiple critical roles within various technology-focused industries. Leader of multi-site database operations, business continuity, and process management. Extensive experience in full life cycle project management and systems implementation projects on numerous scales. 
+
+Subject-matter expert serving as a welcome addition to any business team, with a demonstrated ability to deliver highly critical projects and data within tight schedules / budgets, willing and able to function in any role necessary to ensure project success. Professionally dedicated individual with desire to develop innovative solutions that influence operational and strategic decisions while exceeding customer needs and expectations. 
+
+* A builder of high-performance teams that produce self-motivated, self-sustaining, goal-oriented, and multi- disciplined professionals. A business partner who thrives in environments requiring a high-level strategist and big-picture thinker. Detailed development manager who streamlines processes, reduces unnecessary expenses, and focuses on profit goals, while investing in people.
+
+* Highly proficient in re-engineering both existing and new procedures to enhance team and company performance.  Hands-on involvement in research and development, process development, and ongoing process-improvement activities.
+
+CORE COMPETENCIES
+Operations Management • Strategic Planning • Analytics / Data Management • Training and Development
+Expense Reduction • Information Analysis • Actionable Reporting • Program and Project Management 
+Customer Service Management • Performance Metrics • Budgetary Analysis • On-Time Delivery
+Performance Optimization • Resource Management • Team Leadership • Product Development 
+Installation / Configuration • Administration • Networking and Security • Troubleshooting
+Database Creation / Administration • Customer Relations • Solaris Security Audits
+
+
+TECHNICAL PROFICIENCIES
+CFengine • The Center for Internet Security (CIS) Scoring Tool • Jumpstart Enterprise Toolkit • Availability Suite
+MYSQL • HTML • CSS • Java • C • PHP • cvs • Scripting • Solaris Firewall • Ubuntu • postfix • SpamAssassin
+SAMBA on Solaris (including MS AD) • Exchange Server • Microsoft Office Suite 
+
+
+PROFESSIONAL EXPERIENCE
+
+Data + Imagination, Inc. 			North Hollywood, CA 			          1994 to 2011
+System / Database Administrator / Network Security / Technical Support / Project Management
+Oversaw Solaris Operating systems and maintained system and network security for United States House of Representatives NSA level security audits. Performed data analysis and built intricate databases with CASS certification and NCOA processing.
+
+Integrated Solaris and Microsoft Windows operating systems, performing software testing and troubleshooting. Wrote software and compiled / wrote scripts, managing high level customer support for database client and software.  Collaborated with software / hardware vendors on various projects, as well as coordinated with information-technology and security at installation / customer sites.
+
+Quadratron Systems, Inc. 			Westlake Village, CA				  1993 to 1994
+Technical Support Representative
+Provided telephone support of office automation tools, such as e-mail, word processing, spreadsheet, and database products on UNIX platforms. Performed technical writing, backups, network administration, software testing, quality assurance, and integration.
+
+
+Symbolics, Inc. 				Chatsworth, CA				          1989 to 1992
+Field Service Technical Support Engineer
+Remotely supported and provided on-site coordination with field engineers repairing Symbolics Equipment. Performed various aspects of technical writing and illustrating, as well as site and network database maintenance. Collaborated with various hardware / software engineering departments, providing manufacturing and software support to resolve system issues.
+
+
+Truvel, Inc. 					Chatsworth, CA				          1988 to 1989
+Product Support Specialist
+Provided pre- and post-sales support of hardware and software for digitizing scanners, maintaining high customer satisfaction, and initiating meetings between marketing and engineering departments to resolve hardware and software quality assurance issues.
+
+
+ADDITIONAL EXPERIENCE
+
+Symbolics, Inc. 				Los Angeles, CA				          1986 to 1988
+Field Service Engineer
+
+
+Naval Support Force 				Antarctica					  1982 to 1985
+Electronics Technician Supervisor
+
+
+MILITARY EXPERIENCE
+
+United States Navy										  1978 to 1985
+Electronics Technician
+
+
+CERTIFICATIONS
+
+Placeholder Certification – School or Accrediting Authority
